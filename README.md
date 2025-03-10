@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hero0p
-- 👀 I’m interested in gaming , coding , sports
-- 🌱 I’m currently learning FULL STACK DEVLOPMENT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dont
+- 👀 I’m interested in : gaming , coding , sports and music.
+- 🌱 I’m currently learning : FULL STACK DEVLOPMENT
+- 💞️ I’m looking to collaborate on : not falling for that
+- 📫 How to reach me: dont
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: watch one piece.
 
