@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hero0p
 - 👀 I’m interested in : gaming , coding , sports and music.
-- 🌱 I’m currently learning : FULL STACK DEVLOPMENT AND MACHINE LEARNING
+- 🌱 I’m currently learning : Deep Learning
 - 💞️ I’m looking to collaborate on : creative and innovative projects
 - 📫 How to reach me: dont ;-; .
 - 😄 Pronouns: he/him.
