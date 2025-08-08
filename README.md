@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **nishantchaudhary03115@gmail.com** For Collaboration/Proje
 - 🤔 **I’m looking for help with:** LearnEz
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** mail at: nishantchaudhary03115@gmail.com
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** He/Him.
 - ⚡ **Fun fact:** Watch One Piece.
 
 
