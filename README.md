@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **nishantchaudhary03115@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Redbus Clone
+- 🔭 **I’m currently working on:** Redbus Clone.
 - 🌱 **I’m currently learning:** Angular.js
 - 👯 **I’m looking to collaborate on:** Innovative Projects
 - 🤔 **I’m looking for help with:** LearnEz
