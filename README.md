@@ -1,7 +1,7 @@
 # 💫 Hey, I'm @Nishant Chaudhary !!
 **A passionate Full Stack Devloper || ML & DL Engineer || Python Devloper**
 
-Email Me 👉 ✉️ **nishantchaudhary03115@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nishantchaudhary03115@gmail.com** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:** Redbus Clone.
 - 🌱 **I’m currently learning:** Angular.js
