@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **nishantchaudhary03115@gmail.com** For Collaboration/Project or Anything Else.
 
 - 🔭 **I’m currently working on:** Zomato Clone.
-- 🌱 **I’m currently learning:** Agentic AI
+- 🌱 **I’m currently learning:** System Design.
 - 👯 **I’m looking to collaborate on:** Innovative Projects
 - 🤔 **I’m looking for help with:** LearnEz
 - 💬 **Ask me about:** Collaboration, Tech Support
