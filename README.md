@@ -1,4 +1,4 @@
-# 💫 Hey, I'm @Nishant Chaudhary !!
+# 💫 Hey!!
 **A passionate Full Stack Devloper || ML & DL Engineer || Python Devloper**
 
 Email Me 👉 ✉️ **nishantchaudhary03115@gmail.com** For Collaboration/Project or Anything Else.
